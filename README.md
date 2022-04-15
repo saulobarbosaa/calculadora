@@ -2,7 +2,7 @@
 # 🧮 Calculadora com JavaScript 
 Este repositório possui o objetivo de apresentar uma aplicação simples que foi desenvolvida utilizando HTML, CSS e JavaScript.
 
-![Imagem](https://user-images.githubusercontent.com/82117471/163651927-3fb6c773-59e9-4437-bf0b-91f4cb06966a.PNG)
+![Imagem align-items="center"](https://user-images.githubusercontent.com/82117471/163651927-3fb6c773-59e9-4437-bf0b-91f4cb06966a.PNG)
 
 ## 👨‍💻 Sobre o projeto: 
 
