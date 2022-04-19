@@ -21,7 +21,7 @@ A estilização do projeto baseia-se um ```linear-gradient``` e a centralizaçã
 
 Agora é a parte principal, pois, existem diversas formas de se desenvolver uma calculadora dessas pois esse tipo de projeto é algo muito abrangente em conteúdos na *internet*, entretanto
 resolvi desenvoler ela por meio de uma *factory function* que 'fabricaria' um objeto, dentro dele eu colocaria todos os métodos e atributos de uma calculadora e chamaria os métodos dentro um método principal que
-teria a função de efetuar o que o usuário escolhesse.
+teria a função de efetuar o que o usuário escolhesse. Além disso, fiz outro arquivo com os mesmos métodos e atributos, porém o objeto da calculadora foi feito com uma *constructor function*, para que dessa forma eu praticasse ambas as formas de se 'criar um objeto'.
 
 Além do mais, essa forma foi escolhida para que facilitasse o meu processo de aprendizagem, fazendo com que eu aplicasse
 o conhecimento que estou adquirindo de uma forma prática.
